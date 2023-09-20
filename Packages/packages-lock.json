@@ -207,7 +207,7 @@
       "url": "https://packages.unity.com"
     },
     "test": {
-      "version": "file:Test",
+      "version": "file:UnityTestPackage",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
