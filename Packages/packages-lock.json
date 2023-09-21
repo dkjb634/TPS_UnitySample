@@ -206,12 +206,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "notasubmodule": {
-      "version": "file:NotASubmodule",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "unitytestpackage": {
       "version": "file:UnityTestPackage",
       "depth": 0,
