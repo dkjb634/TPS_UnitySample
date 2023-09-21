@@ -212,12 +212,6 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "unitytestpackage": {
-      "version": "file:UnityTestPackage",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
