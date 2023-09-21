@@ -212,7 +212,7 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "test": {
+    "unitytestpackage": {
       "version": "file:UnityTestPackage",
       "depth": 0,
       "source": "embedded",
